@@ -1,0 +1,51 @@
+[
+    {
+        "success": true,
+        "message": "Compressed NFT fetched successfully",
+        "result": {
+            "name": "Trekn Invitation",
+            "symbol": "TREKN",
+            "royalty": 0,
+            "image_uri": "https://arweave.net/njFkmUPIkLtrH6FSp7qhsOQQw4KHzLMc1zaYsAXeETU",
+            "cached_image_uri": "https://arweave.net/njFkmUPIkLtrH6FSp7qhsOQQw4KHzLMc1zaYsAXeETU",
+            "animation_url": "",
+            "cached_animation_url": "",
+            "metadata_uri": "https://arweave.net/rgvl0_OjALHMCJv_Ah3eaUz0jbfc0KoTkZnf9HCr5m0",
+            "description": "This limited-edition card is your gateway to discovering, sharing, and owning unique and local experiences. Unlock the full potential of your exploration with this exclusive NFT, designed to give you a sneak peek into the world of Trekn. Don't just read about it—experience it! Visit Trekn.xyz now and start to drop an experience.",
+            "mint": "95k1aBzBokt24pUD48cPBUpT6wxGE6Ht8DG1N5CkKmgP",
+            "owner": "FQuxesCpn3giUaxmwFr98ee9FVMSChUziyVKLYYrFKmW",
+            "update_authority": "EUZBzfLAD4PWraJ5AebKRc3jqMVq7CXKftwb3PKkJeFE",
+            "creators": [],
+            "collection": {
+                "address": "BdBPS3Rn2DdZUyepnYc5Z25VhQT61GXda69tZdCg16Jz",
+                "verified": true
+            },
+            "attributes": {
+                "Link": "Trekn.xyz",
+                "Social": "twitter.com/Trekn_xyz",
+                "Rarity": "Exclusive"
+            },
+            "attributes_array": [
+                {
+                    "trait_type": "Link",
+                    "value": "Trekn.xyz"
+                },
+                {
+                    "trait_type": "Social",
+                    "value": "twitter.com/Trekn_xyz"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Exclusive"
+                }
+            ],
+            "external_url": "",
+            "primary_sale_happened": false,
+            "is_mutable": false,
+            "token_standard": "NonFungible",
+            "is_loaded_metadata": true,
+            "is_compressed": true,
+            "merkle_tree": "HNqkP64FLsuXE4cn7tzuNaBxTx7E7tW1BLwtdJfPFek9"
+        }
+    }
+]
