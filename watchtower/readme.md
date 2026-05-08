@@ -100,14 +100,3 @@ As we look ahead, our roadmap is brimming with innovation. Expect a diverse suit
 
 We welcome contributions from the community. If you wish to contribute, please fork this repository and submit a pull request.
 
----
-
-### Credits and Acknowledgements 🙏
-
-**Project Team Members**:
-- **Samridh Singh**: [@thisissamridh](https://github.com/thisissamridh)
-- **Sarthak Sharma**: [@sarthak-here](https://github.com/sarthak-here)
-
-**Hackathon**: This project is a part of the Hyperdrive Solana Hackathon in the AI track.
-
----
